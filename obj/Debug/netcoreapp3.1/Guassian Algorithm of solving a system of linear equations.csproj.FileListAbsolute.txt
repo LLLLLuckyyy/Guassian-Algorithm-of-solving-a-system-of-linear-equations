@@ -1,0 +1,13 @@
+D:\з\Guassian Algorithm of solving a system of linear equations\bin\Debug\netcoreapp3.1\Guassian Algorithm of solving a system of linear equations.exe
+D:\з\Guassian Algorithm of solving a system of linear equations\bin\Debug\netcoreapp3.1\Guassian Algorithm of solving a system of linear equations.deps.json
+D:\з\Guassian Algorithm of solving a system of linear equations\bin\Debug\netcoreapp3.1\Guassian Algorithm of solving a system of linear equations.runtimeconfig.json
+D:\з\Guassian Algorithm of solving a system of linear equations\bin\Debug\netcoreapp3.1\Guassian Algorithm of solving a system of linear equations.runtimeconfig.dev.json
+D:\з\Guassian Algorithm of solving a system of linear equations\bin\Debug\netcoreapp3.1\Guassian Algorithm of solving a system of linear equations.dll
+D:\з\Guassian Algorithm of solving a system of linear equations\bin\Debug\netcoreapp3.1\Guassian Algorithm of solving a system of linear equations.pdb
+D:\з\Guassian Algorithm of solving a system of linear equations\obj\Debug\netcoreapp3.1\Guassian Algorithm of solving a system of linear equations.csprojAssemblyReference.cache
+D:\з\Guassian Algorithm of solving a system of linear equations\obj\Debug\netcoreapp3.1\Guassian Algorithm of solving a system of linear equations.csproj.CoreCompileInputs.cache
+D:\з\Guassian Algorithm of solving a system of linear equations\obj\Debug\netcoreapp3.1\Guassian Algorithm of solving a system of linear equations.AssemblyInfoInputs.cache
+D:\з\Guassian Algorithm of solving a system of linear equations\obj\Debug\netcoreapp3.1\Guassian Algorithm of solving a system of linear equations.AssemblyInfo.cs
+D:\з\Guassian Algorithm of solving a system of linear equations\obj\Debug\netcoreapp3.1\Guassian Algorithm of solving a system of linear equations.dll
+D:\з\Guassian Algorithm of solving a system of linear equations\obj\Debug\netcoreapp3.1\Guassian Algorithm of solving a system of linear equations.pdb
+D:\з\Guassian Algorithm of solving a system of linear equations\obj\Debug\netcoreapp3.1\Guassian Algorithm of solving a system of linear equations.genruntimeconfig.cache
