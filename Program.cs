@@ -9,16 +9,10 @@ namespace Guassian_Algorithm
             int n = 4;
             double[,] matrix = new double[n, n];
             double[] vector = new double[n];
-            Random rnd = new Random();
-            for (int i = 0; i < n; i++)
-            {
-                for (int j = 0; j < n; j++)
-                {
-                    matrix[i,j] = rnd.Next(1,10);
-                }
-                vector[i] = rnd.Next(1,15);
-            }
 
+            Initialize(matrix, vector, n);
+
+            Console.WriteLine("At the beginning:\n");
             Display(matrix, vector, n);
 
             try
@@ -49,6 +43,7 @@ namespace Guassian_Algorithm
                 return;
             }
 
+            Console.WriteLine("After upper triangular transformation:\n");
             Display(matrix, vector, n);
 
             for (int i = n - 1; i >= 0; i--)
@@ -60,10 +55,22 @@ namespace Guassian_Algorithm
                 }
             }
 
+            Console.WriteLine("In the end:\n");
             Display(matrix, vector, n);
         }
 
-
+        static void Initialize(double[,] matrix, double[] vector, int n)
+        {
+            Random rnd = new Random();
+            for (int i = 0; i < n; i++)
+            {
+                for (int j = 0; j < n; j++)
+                {
+                    matrix[i, j] = rnd.Next(1, 10);
+                }
+                vector[i] = rnd.Next(1, 15);
+            }
+        }
 
         static void Display(double[,] matrix,double[] vector, int n)
         {
@@ -76,7 +83,6 @@ namespace Guassian_Algorithm
                 Console.WriteLine("=\t" + vector[i]);
                 Console.WriteLine("\n");
             }
-            Console.WriteLine("\n\n\n");
         }
     }
 }
